@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amaury941
+- 👀 I’m interested in nothing really.
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: send a email to amaurylcjunior@gmail.com
