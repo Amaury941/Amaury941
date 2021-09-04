@@ -1,3 +1,4 @@
+<pre>
 
 quu..__
  $$$b  `---.__
@@ -39,7 +40,4 @@ quu..__
               `',:                 :    .'
 
 ------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/index.php?art=video%20games/pokemon
-
+<pre>
