@@ -1,8 +1,8 @@
-# Welcome!
+# Willkomen!
 
  
 
-## I'm (SEU NOME)!
+## Ich bin Amaury!
 
  
 
@@ -28,11 +28,3 @@
 - Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
-
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
-
-(SEU NOME) = Hellen.
-
-LINK_GIT = https://github.com/hellenmas.
-
-
