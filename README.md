@@ -6,9 +6,7 @@
 
  
 
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil.
+:computer: FullStack Developer from Brazil.
 
 :books: I’m currently learning everything.
 
