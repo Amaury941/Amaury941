@@ -7,7 +7,7 @@ Testing
 Tsting
  
 
-## They know What YOU did
+## They found out What YOU did
 
 [![Github Badge](https://img.shields.io/badge/Hide%20It-She%20knows-red)](https://www.google.com) [![Github Badge](https://img.shields.io/badge/be%20affraid-She%20knows-red)](https://www.google.com)
 
