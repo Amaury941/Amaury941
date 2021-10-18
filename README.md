@@ -1,7 +1,7 @@
 # Do you feel safe with him?
  
 
-## Testing
+## Really have you actually spoke to him?
 
 Testing
 Tsting
@@ -9,7 +9,7 @@ Tsting
 
 ## They found out What YOU did
 
-[![Github Badge](https://img.shields.io/badge/Hide%20It-She%20knows-red)](https://www.google.com) [![Github Badge](https://img.shields.io/badge/be%20affraid-She%20knows-red)](https://www.google.com)
+[![Github Badge](https://img.shields.io/badge/I%20think-She%20knows-red)](https://www.google.com) [![Github Badge](https://img.shields.io/badge/That%20pretencious-little%20secret-red)](https://www.google.com)
 
 
 - Thanks for visiting ?
