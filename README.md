@@ -1,19 +1,8 @@
-# Testing
+# 
  
 
-## Really? have you actually spoke to him?
+## À propos de moi
 
-Testing
-Tsting
- 
-
-## They found out What YOU did
-
-[![Github Badge](https://img.shields.io/badge/I%20think-She%20knows-red)](https://www.google.com) [![Github Badge](https://img.shields.io/badge/That%20pretencious-little%20secret-red)](https://www.google.com)
-
-
-- Thanks for visiting ?
-
-- Enjoy it!! o/
+Étudiant en programmation visant à être quelque chose
 
 ----------------------------------------------------------------------------------
