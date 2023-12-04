@@ -3,6 +3,5 @@
 
 ## À propos de moi
 
-Étudiant en programmation visant à être quelque chose
-
+(Je ne puis parler, car je suis mewing)
 ----------------------------------------------------------------------------------
