@@ -2,6 +2,9 @@
  
 
 ## À propos de moi
+🌕🐐🐍
+citoyen d'honneur de Normandie
 
-(Je ne puis parler, car je suis mewing)
+🎓 Étudiant à l'université fédérale d'Alagoas
+🔰  éternel apprenti
 ----------------------------------------------------------------------------------
