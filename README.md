@@ -1,7 +1,7 @@
 # 
  
 
-## À propos de moi
+## About me
 
 🌕🐐🐍
 
