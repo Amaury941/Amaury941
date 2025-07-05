@@ -7,7 +7,7 @@
 
 citoyen d'honneur de Normandie
 
-🎓 Étudiant à l'université fédérale d'Alagoas
+🎓 Estudante da UFAL
 
 🔰  éternel apprenti
 
