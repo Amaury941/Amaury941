@@ -1,7 +1,7 @@
 
 
 
-<p align="center"> Software engineer passionate about solving complex problems through technology. Focused on improving my skills as a developer and building a strong portfolio to contribute with efficient and scalable solutions.</p>&nbsp;
+<p align="center"> Programmer passionate about solving complex problems through technology. Focused on improving my skills as a developer and building a strong portfolio to contribute with efficient and scalable solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Amaury941&show_icons=true&theme=radical&layout=compact" />
