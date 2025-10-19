@@ -1,7 +1,4 @@
-
-
-
-<p align="center"> Programmer passionate about solving complex problems through aura + ego + code. Focused on improving my skills as a developer and building a strong portfolio to contribute with efficient and scalable solutions.</p>&nbsp;
+<p align="center"> Programmer for 6 years enthusiastic about solving complex problems with code of any type. A.T.M Focusing on improving my actual skills as a developer and learning new technologies.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Amaury941&show_icons=true&theme=radical&layout=compact" />
