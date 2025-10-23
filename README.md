@@ -4,7 +4,6 @@
  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Amaury941&show_icons=true&theme=radical&layout=compact" />
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Amaury941&theme=radical&mode=weekly" />
 
- 
  </div>
  
  &nbsp;
