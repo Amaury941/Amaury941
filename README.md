@@ -1,5 +1,5 @@
 <p align="center"> Programmer for 6 years enthusiastic about solving complex problems with code of any type. A.T.M Focusing on improving my actual skills as a developer and learning new technologies.</p>&nbsp;
-
+x
 
 
 <div  align="center" style="margin-bottom:100px">
