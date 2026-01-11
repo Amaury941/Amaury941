@@ -44,6 +44,7 @@
 ![Obsidian](https://img.shields.io/badge/obsidian-grey?style=for-the-badge&logo=obsidian)&nbsp;
 
 &nbsp;
+
 &nbsp;
 
 ## Contacts:
