@@ -10,11 +10,11 @@
  &nbsp;
 
 ## My Skills
-![Languages](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%E2%80%8B%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%AB%F0%9F%87%B7%E2%80%8B-000000)
+![Languages](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%E2%80%8B%E2%80%8B%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AB%F0%9F%87%B7%E2%80%8B-000000)
 
 #### Main Stack:
 ![Java]( https://img.shields.io/badge/Java-000000?&logo=openjdk&logoColor=white&?style=for-the-badge )&nbsp;
-![Spring Boot]( https://img.shields.io/badge/Spring-000000?logo=spring&logoColor=white&?style=for-the-badge )&nbsp;
+![Spring Boot]( https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=springboot&logoColor=white )&nbsp;
 ![Postgresql]( https://img.shields.io/badge/PostgreSQL-000000?&logo=postgresql&logoColor=white&?style=for-the-badge )&nbsp;
 ![RabbitMQ]( https://img.shields.io/badge/rabbitmq-000000?&logo=rabbitmq&logoColor=white&?style=for-the-badge )&nbsp;
 ![Docker]( https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&?style=for-the-badge )&nbsp;
