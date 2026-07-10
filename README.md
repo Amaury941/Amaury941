@@ -1,4 +1,4 @@
-<p align="center"> Enthusiastic about solving complex problems with code of any type. A.T.M Focusing on improving my actual skills as a developer and learning new technologies.</p>&nbsp;
+<p align="center"> Backend Developer by passion </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -10,6 +10,7 @@
  &nbsp;
 
 ## My Skills
+![Languages](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%E2%80%8B%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%AB%F0%9F%87%B7%E2%80%8B-000000)
 
 #### Main Stack:
 ![Java]( https://img.shields.io/badge/Java-000000?&logo=openjdk&logoColor=white&?style=for-the-badge )&nbsp;
