@@ -19,7 +19,7 @@
 ![RabbitMQ]( https://img.shields.io/badge/RABBITMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white )&nbsp;
 ![Docker]( https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white )&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=npm+run+build%2Cnpm+run+test%2Cnpm+run+deploy%2C%E2%9C%93+Successfully+deployed+to+production&theme=matrix&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&windowStyle=linux&scanLines=true)
 
 #### 
 ![Node.js]( https://img.shields.io/badge/node.js-000000?&logo=node.js&logoColor=white )&nbsp;
