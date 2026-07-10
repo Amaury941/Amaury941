@@ -2,11 +2,11 @@
 
 <div  align="center" style="margin-bottom:100px">
 
- ![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=npm+run+build%2Cnpm+run+test%2Cnpm+run+deploy%2C%E2%9C%93+Successfully+deployed+to+production&theme=matrix&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&windowStyle=linux&scanLines=true)
-
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Amaury941&theme=radical&mode=weekly" />
 
  </div>
+
+![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=npm+run+build%2Cnpm+run+test%2Cnpm+run+deploy%2C%E2%9C%93+Successfully+deployed+to+production&theme=matrix&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&windowStyle=linux&scanLines=true)
  
  &nbsp;
  &nbsp;
