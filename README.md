@@ -35,7 +35,7 @@
 ![Obsidian]( https://img.shields.io/badge/Obsdian-000000?&logo=obsidian&logoColor=white )&nbsp;
 ![Nvim](https://img.shields.io/badge/Nvim-000000?&logo=neovim&logoColor=white)&nbsp;
 
-![Terminal Demo](https://waveify.onrender.com/api/terminal?commands=npm+run+build%2Cnpm+run+test%2Cnpm+run+deploy%2C%E2%9C%93+Successfully+deployed+to+production&theme=matrix&speed=50&cursor=true&prompt=%24+&width=800&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&windowStyle=linux&scanLines=true)
+<img src="https://waveify.onrender.com/api/terminal?commands=npm+run+build%2Cnpm+run+test%2Cnpm+run+deploy%2C%E2%9C%93+Successfully+deployed+to+production&theme=modern&speed=15&cursor=true&prompt=%24+&width=500&height=400&fontSize=14&showHeader=true&title=Terminal&githubMode=false&commandType=auto&windowStyle=linux&scanLines=true&borderRadius=10&lineHeight=1" alt="Terminal Demo">
 
 &nbsp;
 &nbsp;
