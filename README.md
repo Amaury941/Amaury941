@@ -12,34 +12,28 @@
 ## My Skills
 
 #### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Java]( https://img.shields.io/badge/Java-000000?&logo=openjdk&logoColor=white&?style=for-the-badge )&nbsp;
+![Spring Boot]( https://img.shields.io/badge/Spring-000000?logo=spring&logoColor=white&?style=for-the-badge )&nbsp;
+![Postgresql]( https://img.shields.io/badge/PostgreSQL-000000?&logo=postgresql&logoColor=white&?style=for-the-badge )&nbsp;
+![RabbitMQ]( https://img.shields.io/badge/rabbitmq-000000?&logo=rabbitmq&logoColor=white&?style=for-the-badge )&nbsp;
+![Docker]( https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&?style=for-the-badge )&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Node.js]( https://img.shields.io/badge/node.js-000000?&logo=node.js&logoColor=white )&nbsp;
+![React.js]( https://img.shields.io/badge/React-000000?&logo=react&logoColor=white )&nbsp;
+![Express.js]( https://img.shields.io/badge/Express.js-000000?&logo=express&logoColor=white )&nbsp;
 
 #### Studying in this moment:
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB]( https://img.shields.io/badge/MongoDB-000000?&logo=mongodb&logoColor=white )&nbsp;
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Obsidian](https://img.shields.io/badge/obsidian-grey?style=for-the-badge&logo=obsidian)&nbsp;
+![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-000000?&logo=vscodium&logoColor=white)&nbsp;
+![Obsidian]( https://img.shields.io/badge/Obsdian-000000?&logo=obsidian&logoColor=white )&nbsp;
+![Nvim] ( https://img.shields.io/badge/Nvim-000000?&logo=neovim&logoColor=white )&nbsp;
 
 &nbsp;
 
