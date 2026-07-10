@@ -33,7 +33,7 @@
 
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-000000?&logo=vscodium&logoColor=white)&nbsp;
 ![Obsidian]( https://img.shields.io/badge/Obsdian-000000?&logo=obsidian&logoColor=white )&nbsp;
-![Nvim] ( https://img.shields.io/badge/Nvim-000000?&logo=neovim&logoColor=white )&nbsp;
+![Nvim](https://img.shields.io/badge/Nvim-000000?&logo=neovim&logoColor=white)&nbsp;
 
 &nbsp;
 
