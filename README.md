@@ -1,6 +1,6 @@
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4292a187-dce4-4a31-a895-1aec80e30240" /><p align="center"> Backend Developer by passion </p>&nbsp;
-
 ![My power it's rising](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvZTB3N2liMzJlOHRvenlmbW1qemdoM280bjR5eXlsd2p5ZDNheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/asqp0mHzcJynK/giphy.gif)
+
+<p align="center"> Backend Developer by passion </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
