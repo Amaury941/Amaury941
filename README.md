@@ -25,8 +25,6 @@
 ![RabbitMQ]( https://img.shields.io/badge/RABBITMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white )&nbsp;
 ![Docker]( https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white )&nbsp;
 
-
-
 #### 
 ![Node.js]( https://img.shields.io/badge/node.js-000000?&logo=node.js&logoColor=white )&nbsp;
 ![React.js]( https://img.shields.io/badge/React-000000?&logo=react&logoColor=white )&nbsp;
